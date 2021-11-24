@@ -5,10 +5,10 @@ The files web_scraper_exchange_rate_1.py and web_scraper_exchange_rate_2.py demo
 to serve the purpose using python package 'Selenium'.
 
 # input data
-for web_scraper_exchange_rate_1:
+web_scraper_exchange_rate_1:
 1. webscraper_worksheet.csv
 
-for web_scraper_exchange_rate_2:
+web_scraper_exchange_rate_2:
 1. webscraper_worksheet.csv
 2. currency_option.csv
 
@@ -20,8 +20,8 @@ web_scraper_exchange_rate_2.py:
 obtain the exchange rate by interacting with the interface using selenium.
 
 # output
-for web_scraper_exchange_rate_1:
+web_scraper_exchange_rate_1:
 webscraper_worksheet_ouput.csv
 
-for web_scraper_exchange_rate_2:
-webscraper_worksheet_ouput_v2
+web_scraper_exchange_rate_2:
+webscraper_worksheet_ouput_v2.csv

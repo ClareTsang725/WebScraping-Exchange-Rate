@@ -1,0 +1,9 @@
+﻿from_currency,to_currency,amount_from_curr
+AUD,USD,1
+USD,SGD,1
+GBP,AUD,1
+TWD,AUD,300
+SGD,JPY,50
+JPY,SGD,1
+MUR,GBP,200
+CNY,CAD,100

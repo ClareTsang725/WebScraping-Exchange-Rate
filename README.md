@@ -4,6 +4,9 @@ This webscraper can be used to provide updates on the exchange rates between cur
 The files web_scraper_exchange_rate_1.py and web_scraper_exchange_rate_2.py demonstrate 2 different ways 
 to serve the purpose using python package 'Selenium'.
 
+# Installing
+pip install pandas selenium
+
 # input data
 web_scraper_exchange_rate_1:
 1. webscraper_worksheet.csv
